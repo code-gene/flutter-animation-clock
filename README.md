@@ -1,4 +1,4 @@
-# animation_clock
+## Animation Clock
 
 A new Flutter application.
 
